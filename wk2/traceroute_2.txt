@@ -1,0 +1,9 @@
+ 1     5 ms     2 ms    15 ms  10.4.96.1
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9    10 ms     6 ms     6 ms  143.110.208.229

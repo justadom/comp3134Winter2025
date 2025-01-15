@@ -1,0 +1,5 @@
+Pinging 143.110.208.229 with 32 bytes of data:
+Reply from 143.110.208.229: bytes=32 time=11ms TTL=57
+Reply from 143.110.208.229: bytes=32 time=5ms TTL=57
+Reply from 143.110.208.229: bytes=32 time=8ms TTL=57
+Reply from 143.110.208.229: bytes=32 time=6ms TTL=57

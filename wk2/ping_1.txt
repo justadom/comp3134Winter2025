@@ -1,0 +1,11 @@
+64 bytes from comp3134-winter2024 (127.0.1.1): icmp_seq=1 ttl=64 time=0.036 ms
+64 bytes from comp3134-winter2024 (127.0.1.1): icmp_seq=2 ttl=64 time=0.075 ms
+64 bytes from comp3134-winter2024 (127.0.1.1): icmp_seq=3 ttl=64 time=0.063 ms
+64 bytes from comp3134-winter2024 (127.0.1.1): icmp_seq=4 ttl=64 time=0.071 ms
+64 bytes from comp3134-winter2024 (127.0.1.1): icmp_seq=5 ttl=64 time=0.057 ms
+64 bytes from comp3134-winter2024 (127.0.1.1): icmp_seq=6 ttl=64 time=0.086 ms
+64 bytes from comp3134-winter2024 (127.0.1.1): icmp_seq=7 ttl=64 time=0.052 ms
+64 bytes from comp3134-winter2024 (127.0.1.1): icmp_seq=8 ttl=64 time=0.086 ms
+64 bytes from comp3134-winter2024 (127.0.1.1): icmp_seq=9 ttl=64 time=0.078 ms
+64 bytes from comp3134-winter2024 (127.0.1.1): icmp_seq=10 ttl=64 time=0.052 ms
+

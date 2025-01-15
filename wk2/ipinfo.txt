@@ -1,0 +1,24 @@
+temu.com.	88	A	20.15.0.25
+temu.com.	88	A	20.15.0.12
+Boydton, Virginia, United States of America
+
+stubhub.ca.	60	A	23.32.20.33
+stubhub.ca.	60	A	23.32.20.67
+Hong Kong, Hong Kong, Hong Kong
+
+getpocket.com.	43	A	13.227.74.61
+getpocket.com.	43	A	13.227.74.49
+getpocket.com.	43	A	13.227.74.110
+getpocket.com.	43	A	13.227.74.109
+San Francisco, California, United States of America
+
+undark.org.	204	A	172.67.70.95
+undark.org.	204	A	104.26.11.179
+undark.org.	204	A	104.26.10.179
+San Francisco, California, United States of America
+
+npr.org.	7	A	18.238.192.116
+npr.org.	7	A	18.238.192.126
+npr.org.	7	A	18.238.192.117
+npr.org.	7	A	18.238.192.39
+San Jose, California, United States of America

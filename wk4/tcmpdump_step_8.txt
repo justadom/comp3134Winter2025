@@ -1,0 +1,9 @@
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+21:02:54.274517 IP 143.110.208.229.22 > 198.96.85.106.62831: Flags [P.], seq 1164016705:1164016757, ack 2874247703, win 501, length 52
+21:02:54.275083 IP 143.110.208.229.22 > 198.96.85.106.62831: Flags [P.], seq 52:160, ack 1, win 501, length 108
+21:02:54.275131 IP 143.110.208.229.22 > 198.96.85.106.62831: Flags [P.], seq 160:196, ack 1, win 501, length 36
+21:02:54.275167 IP 143.110.208.229.22 > 198.96.85.106.62831: Flags [P.], seq 196:248, ack 1, win 501, length 52
+21:02:54.275198 IP 143.110.208.229.22 > 198.96.85.106.62831: Flags [P.], seq 248:316, ack 1, win 501, length 68
+21:02:54.275230 IP 143.110.208.229.22 > 198.96.85.106.62831: Flags [P.], seq 316:384, ack 1, win 501, length 68
+21:02:54.275257 IP 143.110.208.229.22 > 198.96.85.106.62831: Flags [P.], seq 384:420, ack 1, win 501, length 36

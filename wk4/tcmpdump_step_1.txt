@@ -1,0 +1,16 @@
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+20:48:09.784046 IP comp3134-winter2024.ssh > 198.96.85.106.62831: Flags [P.], seq 1096748473:1096748581, ack 2874218663, win 501, length 108
+20:48:09.784105 IP comp3134-winter2024.ssh > 198.96.85.106.62831: Flags [P.], seq 108:144, ack 1, win 501, length 36
+20:48:09.784141 IP comp3134-winter2024.ssh > 198.96.85.106.62831: Flags [P.], seq 144:196, ack 1, win 501, length 52
+20:48:09.784172 IP comp3134-winter2024.ssh > 198.96.85.106.62831: Flags [P.], seq 196:264, ack 1, win 501, length 68
+20:48:09.784203 IP comp3134-winter2024.ssh > 198.96.85.106.62831: Flags [P.], seq 264:332, ack 1, win 501, length 68
+20:48:09.784230 IP comp3134-winter2024.ssh > 198.96.85.106.62831: Flags [P.], seq 332:368, ack 1, win 501, length 36
+20:48:09.833177 IP 198.96.85.106.62831 > comp3134-winter2024.ssh: Flags [.], ack 368, win 507, length 0
+20:48:09.883763 IP comp3134-winter2024.54130 > 67.207.67.3.domain: 37139+ [1au] PTR? 106.85.96.198.in-addr.arpa. (55)
+20:48:09.883896 IP comp3134-winter2024.59305 > 67.207.67.3.domain: 14572+ [1au] PTR? 106.85.96.198.in-addr.arpa. (55)
+20:48:09.887637 IP 67.207.67.3.domain > comp3134-winter2024.59305: 14572 NXDomain 0/1/1 (120)
+20:48:09.887637 IP 67.207.67.3.domain > comp3134-winter2024.54130: 37139 NXDomain 0/1/1 (120)
+20:48:09.887815 IP comp3134-winter2024.59305 > 67.207.67.3.domain: 14572+ PTR? 106.85.96.198.in-addr.arpa. (44)
+20:48:09.887985 IP comp3134-winter2024.54130 > 67.207.67.3.domain: 37139+ PTR? 106.85.96.198.in-addr.arpa. (44)
+20:48:09.888549 IP 67.207.67.3.domain > comp3134-winter2024.59305: 14572 NXDomain 0/1/0 (109)

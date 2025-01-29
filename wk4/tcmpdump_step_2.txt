@@ -1,0 +1,10 @@
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+20:52:47.303987 IP comp3134-winter2024.ssh > 198.96.85.106.62831: Flags [P.], seq 1096882313:1096882405, ack 2874218983, win 501, length 92
+20:52:47.305814 IP comp3134-winter2024.ssh > 198.96.85.106.62831: Flags [P.], seq 92:200, ack 1, win 501, length 108
+20:52:47.305867 IP comp3134-winter2024.ssh > 198.96.85.106.62831: Flags [P.], seq 200:236, ack 1, win 501, length 36
+20:52:47.305900 IP comp3134-winter2024.ssh > 198.96.85.106.62831: Flags [P.], seq 236:288, ack 1, win 501, length 52
+20:52:47.305933 IP comp3134-winter2024.ssh > 198.96.85.106.62831: Flags [P.], seq 288:356, ack 1, win 501, length 68
+5 packets captured
+34 packets received by filter
+0 packets dropped by kernel

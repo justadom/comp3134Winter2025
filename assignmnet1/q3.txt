@@ -1,0 +1,15 @@
+PING amazon.com (54.239.28.85) 56(84) bytes of data.
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=1 ttl=247 time=18.2 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=2 ttl=247 time=17.2 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=3 ttl=247 time=17.3 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=4 ttl=247 time=17.2 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=5 ttl=247 time=17.2 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=6 ttl=247 time=17.2 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=7 ttl=247 time=17.2 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=8 ttl=247 time=17.2 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=9 ttl=247 time=17.2 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=10 ttl=247 time=17.2 ms
+
+--- amazon.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 17.195/17.328/18.241/0.305 ms

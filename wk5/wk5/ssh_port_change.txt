@@ -1,0 +1,6 @@
+sudo nano /etc/ssh/sshd_config
+change it to port 2222 and remove #
+
+sudo ufw allow 8080/tcp
+
+ssh -p 2222 root@143.110.208.229

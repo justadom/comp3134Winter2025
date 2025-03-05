@@ -1,0 +1,5 @@
+$ ssh root@143.110.208.229 tcpdump -c 100 -i eth0 -w all_traffic20250305_1446.pcap
+root@143.110.208.229's password:
+tcpdump: listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+
+[1]+  Stopped                 ssh root@143.110.208.229 tcpdump -c 100 -i eth0 -w all_traffic20250305_1446.pcap
